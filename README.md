@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Mariana Santiago
 
 - 🌱 Estudando C# e Javascript
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
